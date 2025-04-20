@@ -7,7 +7,6 @@ This is a simple and responsive personal profile card built using **HTML** and *
 ## 🔗 Live Demo
 
 [Click here to view the live site](https://Balaji-R-05.github.io/profile-card/)  
-*(Replace with your actual GitHub Pages link if different)*
 
 ## 🛠️ Tech Used
 
