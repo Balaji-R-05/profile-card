@@ -39,6 +39,5 @@ profile-card/
 - [Email](mailto:balajiramu05@gmail.com)
 
 ---
-
-> Designed and coded with ❤️ by Balaji R
+ Designed and coded with ❤️ by Balaji R
 
