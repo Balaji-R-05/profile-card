@@ -14,13 +14,14 @@ This is a simple and responsive personal profile card built using **HTML** and *
 
 ## 📁 Folder Structure
 
-profile-card/ <br>
-├── index.html <br>
-├── style.css <br>
-└── images/ <br>
-&nbsp  └── my_pic_1.png <br>
-&nbsp  └── favicon_light.webp <br>
-
+```
+profile-card/ 
+├── index.html 
+├── style.css 
+└── images/ 
+  └── my_pic_1.png 
+  └── favicon_light.webp
+```
 
 ## 🚀 Features
 
