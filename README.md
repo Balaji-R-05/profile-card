@@ -2,8 +2,6 @@
 
 This is a simple and responsive personal profile card built using **HTML** and **CSS**. It showcases my picture, a short bio, and links to all my social media and contact platforms.
 
-![Screenshot](images/my_pic_1.png)
-
 ## 🔗 Live Demo
 
 [Click here to view the live site](https://Balaji-R-05.github.io/profile-card/)  
