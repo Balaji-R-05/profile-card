@@ -18,8 +18,8 @@ profile-card/ <br>
 ├── index.html <br>
 ├── style.css <br>
 └── images/ <br>
-  └── my_pic_1.png <br>
-  └── favicon_light.webp <br>
+&nbsp  └── my_pic_1.png <br>
+&nbsp  └── favicon_light.webp <br>
 
 
 ## 🚀 Features
