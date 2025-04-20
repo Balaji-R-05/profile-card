@@ -18,7 +18,7 @@ This is a simple and responsive personal profile card built using **HTML** and *
 profile-card/ 
 ├── index.html 
 ├── style.css 
-└── images/ 
+└── assets/ 
   └── my_pic.png 
   └── favicon_light.webp
 ```
