@@ -19,7 +19,7 @@ profile-card/
 ├── index.html 
 ├── style.css 
 └── images/ 
-  └── my_pic_1.png 
+  └── my_pic.png 
   └── favicon_light.webp
 ```
 
